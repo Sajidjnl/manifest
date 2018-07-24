@@ -130,5 +130,8 @@
   <remove-project name="platform/hardware/qcom/power" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/ril" />
-
+  
+ <!-- Device Settings -->
+ <remove-project name="packages/resources/devicesettings" />
+  
 </manifest>
